@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Devyn'
+author 'VenoM'
 description 'Money Laundry'
 
 
